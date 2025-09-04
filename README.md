@@ -1,7 +1,7 @@
 # 👋 Hola, soy Juan Francisco Sánchez  
 
 🎓 Estudiante de **Ingeniería Mecatrónica** en la [ESPOL](https://www.espol.edu.ec).  
-🌱 Actualmente aprendiendo sobre **YOLOv8, computer vision y controladores PID**.  
+🌱 Actualmente aprendiendo sobre **YOLO, computer vision y controladores PID**.  
 
 ---
 
