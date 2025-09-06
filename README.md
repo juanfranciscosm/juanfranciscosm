@@ -8,3 +8,10 @@
 ## 📫 Contáctame
 - ✉️ Correo: **jfranciscosm99@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/juanfranciscosm](https://linkedin.com/in/juanfranciscosm)  
+
+---
+
+## :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
