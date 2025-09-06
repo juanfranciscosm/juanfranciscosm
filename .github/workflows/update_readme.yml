@@ -1,18 +1,40 @@
-name: Update README
+name: Update README with recent activity
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # ⬅️ Necesario para pushear cambios al repo
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update Profile README
-
     steps:
-      - uses: actions/checkout@v4.2.2
-      
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # ⬅️ Evita problemas con historial superficial
+
+      - name: Setup Git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Recent Activity
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # ⬅️ O usa GH_TOKEN si el action lo requiere
+        with:
+          CONFIG_FILE: .github/recent-activity.config.yml  # si aplicara
+
+      - name: Commit & push changes (if any)
+        run: |
+          if ! git diff --quiet; then
+            git add .
+            git commit -m "chore: update recent activity [skip ci]"
+            git push
+          else
+            echo "No hay cambios; nada que commitear."
+          fi
