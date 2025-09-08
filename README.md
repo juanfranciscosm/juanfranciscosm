@@ -7,7 +7,8 @@
 
 ## 📫 Contáctame
 - ✉️ Correo: **jfranciscosm99@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/juanfranciscosm](https://linkedin.com/in/juanfranciscosm)  
+- 💼 LinkedIn: [linkedin.com/in/juanfranciscosm](https://linkedin.com/in/juanfranciscosm)
+- 🟥 Youtube: [youtube.com/@juanfranciscosm](https://www.youtube.com/@juanfranciscosm)
 
 ---
 
