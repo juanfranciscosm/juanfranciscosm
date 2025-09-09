@@ -15,11 +15,11 @@
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/cursoPython](https://github.com/juanfranciscosm/cursoPython)<br>
-2. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/juanfranciscosm](https://github.com/juanfranciscosm/juanfranciscosm)<br>
-3. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/juanfranciscosm](https://github.com/juanfranciscosm/juanfranciscosm)<br>
-4. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/juanfranciscosm](https://github.com/juanfranciscosm/juanfranciscosm)<br>
-5. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/juanfranciscosm](https://github.com/juanfranciscosm/juanfranciscosm)<br>
+2. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/cursoPython](https://github.com/juanfranciscosm/cursoPython)<br>
+3. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/cursoPython](https://github.com/juanfranciscosm/cursoPython)<br>
+4. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/cursoPython](https://github.com/juanfranciscosm/cursoPython)<br>
+5. ⬆️ Pushed 1 commit(s) to [juanfranciscosm/cursoPython](https://github.com/juanfranciscosm/cursoPython)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 9th, 2025, 12:42:29 PM
+Last Updated: Tuesday, September 9th, 2025, 6:25:14 PM
 <!--RECENT_ACTIVITY:last_update_end-->
