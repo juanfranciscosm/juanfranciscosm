@@ -14,12 +14,12 @@
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-web](https://github.com/AIROS-ESPOL/airos-web)<br>
-2. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-web](https://github.com/AIROS-ESPOL/airos-web)<br>
-3. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-web](https://github.com/AIROS-ESPOL/airos-web)<br>
-4. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-web](https://github.com/AIROS-ESPOL/airos-web)<br>
-5. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-web](https://github.com/AIROS-ESPOL/airos-web)<br>
+1. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+4. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+5. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 21st, 2026, 6:37:11 PM
+Last Updated: Sunday, February 22nd, 2026, 2:23:16 AM
 <!--RECENT_ACTIVITY:last_update_end-->
