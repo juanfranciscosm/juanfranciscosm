@@ -14,12 +14,12 @@
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [juanfranciscosm/agentic-finance](https://github.com/juanfranciscosm/agentic-finance)<br>
-2. ⬆️ Pushed undefined commit(s) to [juanfranciscosm/agentic-finance](https://github.com/juanfranciscosm/agentic-finance)<br>
-3. ⬆️ Pushed undefined commit(s) to [juanfranciscosm/agentic-finance](https://github.com/juanfranciscosm/agentic-finance)<br>
-4. ⬆️ Pushed undefined commit(s) to [juanfranciscosm/agentic-finance](https://github.com/juanfranciscosm/agentic-finance)<br>
-5. ⬆️ Pushed undefined commit(s) to [juanfranciscosm/agentic-finance](https://github.com/juanfranciscosm/agentic-finance)<br>
+1. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+2. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+3. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+4. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+5. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 15th, 2026, 1:44:52 PM
+Last Updated: Wednesday, July 15th, 2026, 7:12:03 PM
 <!--RECENT_ACTIVITY:last_update_end-->
