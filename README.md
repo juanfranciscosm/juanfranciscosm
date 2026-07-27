@@ -14,12 +14,12 @@
 
 ## :zap: Actividad Reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
-2. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
+1. ⬆️ Pushed undefined commit(s) to [juanfranciscosm/isaac-semantic-navigation](https://github.com/juanfranciscosm/isaac-semantic-navigation)<br>
+2. ⬆️ Pushed undefined commit(s) to [juanfranciscosm/isaac-semantic-navigation](https://github.com/juanfranciscosm/isaac-semantic-navigation)<br>
 3. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
 4. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
 5. ⬆️ Pushed undefined commit(s) to [AIROS-ESPOL/airos-espol.github.io](https://github.com/AIROS-ESPOL/airos-espol.github.io)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 27th, 2026, 9:52:50 AM
+Last Updated: Monday, July 27th, 2026, 2:35:49 PM
 <!--RECENT_ACTIVITY:last_update_end-->
